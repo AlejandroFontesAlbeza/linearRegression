@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-"cambio para probar que esta funcionando el push y el diff de git"
 
 dataset = pd.read_csv('dataset.csv')
 
