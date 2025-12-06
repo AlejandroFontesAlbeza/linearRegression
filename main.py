@@ -5,8 +5,6 @@ import numpy as np
 dataset = pd.read_csv('dataset.csv')
 
 
-# Loss funtion (commented cause in gradient descent is already done)
-
 def MSE(m, b, points):
     
     total_error = 0
