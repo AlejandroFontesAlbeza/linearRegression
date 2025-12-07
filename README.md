@@ -52,12 +52,14 @@ The repository includes two images that show how the initial choice of weight an
 
 - In one figure, the model starts very close to the optimal line, so the number of epochs needed to converge is small.
 
-![Gradient Descent w and b ideals](gradient_descent.png)
-
+<p align = "center">
+    <img src = "gradient_descent.png" alt = "Gradient Descent w and b ideals" width = "400"/>
+</p>
 - In the other figure, the starting parameters are far from ideal, and the training requires many more updates.
 
-![Gradient Descent w and b random](gradient_descent1.png)
-
+<p align = "center">
+    <img src = "gradient_descent1.png" alt = "Gradient Descent w and b random" width = "400"/>
+</p>
 These visualizations help illustrate how gradient descent behaves depending on the initial conditions.
 
 
