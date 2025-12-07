@@ -25,9 +25,9 @@ This simulates real-world data — for example, predicting temperature from time
 This file contains the full implementation of linear regression using gradient descent.
 I implemented:
 
-- A Mean Squared Error (MSE) function
+- A **Mean Squared Error (MSE)** function
 
-- A gradient descent update rule
+- A **gradient descent** update rule
 
 - A training loop that iteratively updates w and b until convergence
 
@@ -78,3 +78,10 @@ It reinforces key ideas such as:
 - Why initialization matters in training dynamics
 
 Even though it’s a simple example, it’s the basis of how more complex neural networks operate.
+
+
+### References and Learning Resources
+
+- [Medium - Zakariae Benzouitine - Linear Neural Networks for Regression](https://medium.com/@AI_with_Zakariae/chapter-1-linear-neural-networks-for-regression-3a44351f9a2e)
+
+- [Youtube - NeuralNine - Linear Regression Python](https://www.youtube.com/watch?v=VmbA0pi2cRQ)
